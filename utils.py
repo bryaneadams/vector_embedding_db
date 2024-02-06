@@ -131,7 +131,7 @@ class VectorEmbeddings:
             model (str, optional) Name of the model you want to use. Defaults to 'models/embedding-gecko-001'
 
         Returns:
-            Union[List[float], None]: vector embeding for text string
+            Union[List[float], None]: vector embedding for text string
         """
         try:
             vector = palm.generate_embeddings(model=model, text=text)["embedding"]
@@ -220,7 +220,7 @@ class VectorEmbeddings:
         df: pd.DataFrame,
         embed_col_name: str = "embeddings",
         model: str = "models/embedding-gecko-001",
-    ):
+    ) -> list:
         """
         Compute the distances between the query and each document in the dataframe
         using the dot product.
@@ -232,7 +232,7 @@ class VectorEmbeddings:
             model (str, optional) Name of the model you want to use. Defaults to 'models/embedding-gecko-001'
 
         Returns:
-            _type_: _description_
+            list: list of dot products calculated. Since the embeddings are normalized this is equal to the cosine similarity score (although this is less calculations and less rounding)
         """
         query_embedding = palm.generate_embeddings(model=model, text=query)
         dot_products = np.dot(
@@ -244,7 +244,7 @@ class VectorEmbeddings:
     def make_prompt(
         self, leading_text: str, query: str, relevant_passage: Union[List[str], str]
     ) -> str:
-        """_summary_
+        """Creates a prompt for the model based on your input.
 
         Args:
             leading_text (str): _description_
@@ -252,7 +252,7 @@ class VectorEmbeddings:
             relevant_passage (Union[List[str],str]): _description_
 
         Returns:
-            str: _description_
+            str: The prompt that will be sent to the api
         """
         if isinstance(relevant_passage, list):
             relevant_passage = " ".join(relevant_passage)
