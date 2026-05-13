@@ -1,0 +1,42 @@
+Offense 
+11 January 2024 ATP 3-21.8 (INCL C1) 4-23
+CONTROL MEASURES 
+4-59. Execution of a movement to contact usually starts from an LD at the time specified 
+in the operation order (OPORD). The unit ’s movement is controlled by phase lines ,
+contact points, and checkpoints as required. The depth of the movement to contact is
+usually controlled by a limit of advance —a phase line used to control forward progress
+of the attack (ADP 3 -90)—or a forward boundary —a boundary that delineates the
+forward edge of a unit’s area of operation (FM 3-90). A lateral boundary is a boundary
+defining the left or right limit of a unit’ s assigned area (FM 3 -90). One or more
+objectives is designated to limit the extent of the movement to contact and to orient the
+force. However , these are often terrain -oriented (commonly called march objectives)
+and used only to guide movement. Although movement to contact may result in taking
+a terrain objective , the primary focus should be on the enemy force. The leader can
+designate a series of phase lines successively becoming the new rear boundary—a
+boundary that delineates the rearward limits of a unit ’s assigned area (FM 3 -90)—of
+forward security elements as the force advances. Each rear boundary becomes the
+forward boundary of the main body and shifts as the security force moves forward. The
+rear boundary of the main body designates the limit of responsibility of the rear security
+element. This line also shifts as the main body moves forward. When enough
+information is available to locate a significant enemy force(s) , then another type of
+offensive operation (for example, an attack) should be conducted. (See FM 3 -90 for
+additional information.)
+SEQUENCE OF EVENTS, EXAMPLE 
+4-60. Most platoon movement to contacts will follow a sequence of events as part of a
+larger movement to contact. This sequence of events is used for discussion purposes and
+is not the only way to sequence a movement to contact. With any sequence , leaders
+understand events will vary depending on the mission variables of METT-TC (I) and to
+some degree, events will overlap. The sequence of events includes:
+ TAA.
+ Reconnaissance and surveillance.
+ Movement to the LD.
+ Movement after the LD.
+ Initial engagement (transition to a maneuver plan).
+TACTICAL ASSEMBLY AREA 
+4-61. A tactical assembly area  is an area that is generally out of the reach of light
+artillery and the location where units make final preparations (precombat checks and
+inspections) and rest, prior to moving to the line of departure (JP 3- 35). Prior to
+establishing the TAA, a quartering party—a group dispatched to a new assigned area in
+advance of the main body (FM 3- 90)—secures , reconnoiters, and organizes the T AA
+before the main body’ s arrival and occupation. A quartering party is a group of unit
+representatives dispatched to a probable new site of operations in advance of the main

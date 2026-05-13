@@ -1,0 +1,41 @@
+Chapter 4 
+4-12 ATP 3-21.8 (INCL C1) 11 January 2024 
+reconnaissance assets might be used to observe an AO not assigned to a subordinate  
+unit, while platoons or companies provide their own reconnaissance in the ir AO. This 
+technique, along with target reference points (TRPs) , help avoid fratricide in 
+noncontiguous operations . Using a  TRP facilitates the responsiveness of fixing and 
+finishing elements once a reconnaissance element detects the enemy. Objectives and 
+checkpoints guide the movement of subordinates and help leaders control their 
+organizations. Contact points help coordination among the unit operating in adjacent 
+areas. 
+4-25. When looking for terrain features to use as control measures , leaders consider
+three types: contiguous ; point; and area. Contiguous featur es follow major natural and
+man-made features such as ridgelines , valleys, trails, streams, power lines, and streets.
+Point features can be identified by a specific feature or a grid coordinate including,
+hilltops and prominent buildings. Area features are significantly larger than point
+features and require a combination of grid coordinates and terrain orientation.
+4-26. A zone is an operational area assigned to a unit in the offense that only has rear
+and lateral boundaries (FM 3-0). The non-bounded side of a zone is open towards enemy 
+forces. A higher echelon headquarters uses fire support coordination and maneuver
+control measures such as a n LOA and a coordinated fire line to synchronize its deep
+operations with those of a subordinate unit. Zones allow higher headquarters to adjust
+deep operations without having to change unit boundaries. This gives greater flexibility
+to the higher headquarters for controlling deep operations, allowing subordinate units to
+focus on close and rear operations. A zone is best for front -line units executing
+high-tempo offensive operations characterized by direct fire contact with the enemy and
+a fluid FLOT. Units treat everything behind the FLOT  as an AO. Zone can be further
+subdivided as needed. (See FM 3 -90 appendix A for additional  information on zones.)
+(See ATP 3-21.10 and FM 3-96 for additional information.)
+TACTICAL FRAMEWORK OF THE OFFENSE 
+4-27. Offensive operations are typically executed in a four-step tactical framework. (See 
+paragraphs 4-81 to 4-87 and 4-137 to 4-154.) The framework is for discussion purposes
+only and is not the only way of executing  offensive operations. These steps  overlap
+during the conduct of the offense. Normally the first t wo steps are supporting efforts ,
+while the finish step is the main effort. Follow through is usually a sequel or branch to
+the plan based upon the situation. The four-step tactical framework of the offense during 
+execution is—
+ Find the enemy. Intel drives fires and maneuver.
+ Fix the enemy. Prevent repositioning or reinforcement making them easier to
+destroy.
+ Finish the enemy. Mass available combat power to accomplish the mission.
+ Follow through. Defeat in detail, consolidate, reorganize, and transition.
