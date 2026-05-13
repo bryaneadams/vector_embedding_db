@@ -1,4 +1,4 @@
-# vector_embedding_db
+# RAG to MCP
 
 This repo has two tracks:
 
