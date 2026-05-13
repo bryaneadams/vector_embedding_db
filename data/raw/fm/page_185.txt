@@ -1,0 +1,44 @@
+Offense 
+11 January 2024 ATP 3-21.8 (INCL C1) 4-63
+friendly forces by restricting movement and activity within the screen. It 
+provides maximum concealment.  
+ Obscuration haze. An obscuration haze is obscuration placed over friendly
+areas to restrict adversary observation with fire, but not dense enough to
+disrupt friendly operations within the screen.
+ Obscuration curtain. An obscuration curtain is a vertical development of
+smoke that reduces the enemy ’s ability to clearly identify what is occurring
+on the other side of the cloud. Visual recognition depends on the curtain width 
+and obscurant density. It is placed between friendly and enemy positions to
+prevent or degrade enemy ground observation of friendly positions. Since the
+obscuration curtain is not placed directly on friendly troops , it will not
+hamper friendly operations.
+Planning and Preparation Considerations 
+4-181. Obscuration missions are important functions for grenade launchers and
+mortars. Obscuration missions must be planned well and prepared for in advance so that
+the grenade launchers or mortar carriers are loaded with enough obscuration rounds.
+4-182. Atmospheric stability, wind velocity, and wind direction are the most important
+factors when planning target effects for obscuration and WP mortar rounds. The effects
+of atmospheric stability can determine whether projected  obscuration is effective at all
+or, if effective, how much ammunition is needed. The considerations are—
+ During unstable conditions , grenade and mortar obscuration rounds are
+almost ineffective—the obscuration does not spread but often climbs straight
+up and quickly dissipates.
+ Under stable conditions , both grenade and mortar obscuration rounds are
+effective.
+ The higher the humidity, the better the screening effects of grenade  and
+mortar obscuration rounds.
+4-183. The terrain in the target area affects obscuration rounds. If the terrain in the
+target area is swampy , rain-soaked, or snow-covered, then burning obscuration rounds
+may not be effective. These rounds produce obscuration by ejecting felt wedges soaked
+in phosphorous. These wedges then burn on the ground, producing a dense, long-lasting
+cloud. If the wedges fall into mud, water, or snow, they can extinguish. Shallow water
+can reduce the obscuration produced by these rounds by as much as 50 percent.
+4-184. The vehicle mounted grenade launchers (from the assault platoon of the
+weapons company) can provide a screening , incendiary, marking, and
+casualty-producing effect. It produces a localized , instantaneous obscuration cloud by
+scattering burning WP particles. The 120- millimeter (mm) heavy mortar and 81 -mm
+medium battalion mortar WP and red phosphorous rounds produce a long lasting and
+wide area obscuration screen and can be used for incendiary  effects, such as marking,
+obscuring, screening, and casualty producing. The 60-mm lightweight company mortar
+WP round can be used as a screening, signaling, and incendiary agent. All mortar
+obscuration rounds can be used as an aid in target location and navigation.

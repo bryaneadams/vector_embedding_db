@@ -1,8 +1,7 @@
-version: "3"
 services:
   db:
     container_name: postgres
-    image: ankane/pgvector
+    image: pgvector/pgvector:0.8.2-pg17-bookworm
     environment:
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
@@ -10,7 +9,8 @@ services:
     ports: 
       - ${DB_PORT}:5432
     volumes:
-    - vector_data:/var/lib/postgresql/data
+      - pg_data:/var/lib/postgresql/data
+      - ./initdb:/docker-entrypoint-initdb.d:ro
   pgadmin:
     container_name: pgadmin4_container
     image: dpage/pgadmin4
@@ -23,5 +23,5 @@ services:
     volumes:
       - pgadmin_data:/var/lib/pgadmin
 volumes:
-  vector_data:
+  pg_data:
   pgadmin_data:
