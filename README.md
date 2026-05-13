@@ -72,10 +72,11 @@ pip install -e .
 cp database/example.env database/.env
 cp app/example.env app/.env
 ```
+5. Put your Gemini API key into into `.api_key` (this is for `setup.ipynb`)
 
-5. Put your Gemini API key into `app/.env`.
+6. Put your Gemini API key into `app/.env` (this is for the MCP server)
 
-6. Start Postgres:
+7. Start Postgres:
 
 ```bash
 cd database
